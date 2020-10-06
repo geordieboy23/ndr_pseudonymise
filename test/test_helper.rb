@@ -5,4 +5,4 @@ require 'active_support/test_case'
 
 require 'ndr_pseudonymise'
 require 'minitest/autorun'
-require 'mocha/minitest'
+require 'mocha/mini_test'
